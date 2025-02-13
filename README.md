@@ -1,6 +1,6 @@
 # 🌍 Comprehensive World Countries Database
 
-A detailed collection of information about countries, territories, and dependencies worldwide. This repository provides accurate, up-to-date data in multiple formats (SQL, CSV, and JSON) for easy integration into any project.
+A detailed collection of information about countries, territories, and dependencies worldwide: this repository provides accurate, up-to-date data in multiple formats (SQL, CSV, and JSON) for easy integration into any project.
 
 ## 📊 Data Overview
 
@@ -75,7 +75,7 @@ Each entry contains the following information:
 Simply clone the repository and choose the format that best suits your needs:
 
 ```bash
-git clone https://github.com/yourusername/countries-database.git
+git clone https://github.com/ceexon/countries.git
 ```
 
 ## 🚀 Usage Examples
